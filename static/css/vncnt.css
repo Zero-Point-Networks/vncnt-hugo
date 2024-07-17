@@ -111,7 +111,7 @@ p.reset-margin {
 /* Larger than mobile (default point when grid becomes active) */
 @media (min-width: 600px) {
   h1.h3-like, h2.h3-like {
-    font-size: 3.6rem;
+    font-size: 2.6rem;
   }
     
   .grid-container.fivetoseven {
