@@ -26,7 +26,7 @@ _merge = "none"
   # email does still work but is deprecated.
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
-  description = "Sunset Coast Marine Trimming"
+  description = "Sunset&nbsp;Coast Marine&nbsp;Trimming"
   bio = "9/108 Barrington Street  \nBibra Lake   \nWestern Australia 6163  \n0424797023"
   avatar = "img/sunsetcoast.svg"
   favicon = "img/sunsetcoast.ico"
